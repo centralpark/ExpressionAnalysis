@@ -1,0 +1,2 @@
+INITIAL_INTERPRETER_CMDS=import os; os.chdir('/Users/HSH/Desktop')
+eclipse.preferences.version=1

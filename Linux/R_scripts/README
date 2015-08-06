@@ -1,0 +1,15 @@
+# Statistics for fusion pair
+
+python /pred_cello1/analysis/geneFusion/tcga/integrate/R_scripts/jobManagement_cluster.py /home/staff/hes14/temp_1/job_dir/ 5 /home/staff/hes14/temp_1/age_dir/ /home/staff/hes14/temp_1/os_dir/
+
+/apps/R-3.1.1/bin/R --vanilla --args /home/staff/hes14/temp_1/age_dir/ /home/staff/hes14/temp_1/os_dir/  /home/staff/hes14/temp_1/compareAge.txt /home/staff/hes14/temp_1/compareOS.txt < /pred_cello1/analysis/geneFusion/tcga/integrate/R_scripts/compareAgeOS.R
+
+/apps/Python-2.7.2/bin/python /pred_cello1/analysis/geneFusion/tcga/integrate/R_scripts/combine.py /home/staff/hes14/temp_1/compareAge.txt /home/staff/hes14/temp_1/compareOS.txt /pred_cello1/analysis/geneFusion/tcga/integrate/all15.txt /home/staff/hes14/Roche/20140925/all15_v1.txt
+
+# Statistics for fusion grouped by gene3p
+
+python /pred_cello1/analysis/geneFusion/tcga/integrate/R_scripts/jobManagement_cluster_group.py /home/staff/hes14/temp_1/job_dir_group/ 5 /home/staff/hes14/temp_1/age_dir_group/ /home/staff/hes14/temp_1/os_dir_group/
+
+/apps/R-3.1.1/bin/R --vanilla --args /home/staff/hes14/temp_1/age_dir_group/ /home/staff/hes14/temp_1/os_dir_group/  /home/staff/hes14/temp_1/compareAgeGroup.txt /home/staff/hes14/temp_1/compareOSGroup.txt < /pred_cello1/analysis/geneFusion/tcga/integrate/R_scripts/compareAgeOS_group.R
+
+/apps/Python-2.7.2/bin/python /pred_cello1/analysis/geneFusion/tcga/integrate/R_scripts/combine_group.py /home/staff/hes14/temp_1/compareAgeGroup.txt /home/staff/hes14/temp_1/compareOSGroup.txt /home/staff/hes14/Roche/20140925/all15_v1.txt /home/staff/hes14/Roche/20140925/all15_v2.txt

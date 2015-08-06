@@ -1,0 +1,16 @@
+INSTUPgetExpressionData
+/Users/HSH/Roche/workspace/GeneFusion/DESeq/getExpressionData.py
+INFOS:&&3|1|2|0&&3|3|2|0&&3|4|2|0&&3|5|2|0&&3|6|2|0&&3|7|2|0&&3|8|2|0&&2|9|2|0&&2|10|2|0&&2|11|2|0&&2|12|2|0&&2|13|2|0
+f=3
+probe_id=5
+symbol=6
+readRSEM=10
+id_symbol_map=1
+getPseudogene=9
+readCancer=11
+writeTCGAExpressionMatrix=13
+data_type=8
+line_split=4
+getExpressionData=2
+writeExpressionMatrix=12
+gene_type=7

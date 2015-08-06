@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;GeneFusion/all8_header&apos; to &apos;all8_header.py&apos;" description="Rename resource &apos;all8_header&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="all8_header" name="all8_header.py" stamp="1406221022100" updateReferences="true"/>
+</session>

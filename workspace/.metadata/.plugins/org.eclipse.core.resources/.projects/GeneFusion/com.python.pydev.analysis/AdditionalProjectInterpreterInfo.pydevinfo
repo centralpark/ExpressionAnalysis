@@ -1,0 +1,107 @@
+-- VERSION_4
+-- START DISKCACHE
+/Users/HSH/Roche/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/GeneFusion/com.python.pydev.analysis/v2_indexcache
+script_3|1403743132000|/Users/HSH/Roche/workspace/GeneFusion/20140625/script_3.py
+all8_header|1406837519000|/Users/HSH/Roche/workspace/GeneFusion/all8_header.py
+script_2|1403729482000|/Users/HSH/Roche/workspace/GeneFusion/20140625/script_2.py
+script_1|1404429148000|/Users/HSH/Roche/workspace/GeneFusion/20140702/script_1.py
+test|1406838445000|/Users/HSH/Roche/workspace/GeneFusion/test.py
+getDataFile|1404535882000|/Users/HSH/Roche/workspace/GeneFusion/DESeq/getDataFile.py
+PlatformConversion|1407782221000|/Users/HSH/Roche/workspace/GeneFusion/PlatformConversion.py
+20140612|1402628837000|/Users/HSH/Roche/workspace/GeneFusion/publish/20140612.py
+mitelmanAnalysis|1403289460000|/Users/HSH/Roche/workspace/GeneFusion/20140619/mitelmanAnalysis.py
+misc|1407855451000|/Users/HSH/Roche/workspace/GeneFusion/misc.py
+pipeline|1408393500000|/Users/HSH/Roche/workspace/GeneFusion/DESeq/pipeline.py
+exploratory|1401937328000|/Users/HSH/Roche/workspace/GeneFusion/publish/exploratory.py
+prepareDESeqData|1408457401000|/Users/HSH/Roche/workspace/GeneFusion/DESeq/prepareDESeqData.py
+script_4|1403744564000|/Users/HSH/Roche/workspace/GeneFusion/20140625/script_4.py
+script_5|1403745770000|/Users/HSH/Roche/workspace/GeneFusion/20140625/script_5.py
+compareDistribution|1407512340000|/Users/HSH/Roche/workspace/GeneFusion/publish/compareDistribution.py
+getExpressionData|1408455296000|/Users/HSH/Roche/workspace/GeneFusion/DESeq/getExpressionData.py
+PathwayCommons|1406766178000|/Users/HSH/Roche/workspace/GeneFusion/GeneNetwork/PathwayCommons.py
+06102014|1402447137000|/Users/HSH/Roche/workspace/GeneFusion/publish/06102014.py
+-- END DISKCACHE
+-- START DICTIONARY
+19
+6=script_3
+3=script_2
+12=all8_header
+2=script_1
+1=test
+18=getDataFile
+17=PlatformConversion
+10=20140612
+4=mitelmanAnalysis
+16=misc
+7=pipeline
+9=exploratory
+19=prepareDESeqData
+5=script_4
+11=script_5
+13=compareDistribution
+15=getExpressionData
+14=PathwayCommons
+8=06102014
+-- END DICTIONARY
+-- START TREE 1
+56
+!<m|0|
+R|2|R!11@R!19@
+age|2|age_num!27@age_num!11@
+all|1|all_fusion!19@
+can|13|cancer_key!35@cancer!19@cancer!43@cancer_dict!35@cancer_type!51@cancer!11@cancer!35@cancer!59@cancer_row!35@cancer_type!43@cancer!51@cancer!67@cancer!27@
+chr|10|chr3p!67@chromo!67@chr5p!75@chromo!83@chr5p!91@chr3p!75@chr3p!83@chr5p!83@chr3p!91@chr5p!67@
+cnt|2|cnt!67@cnt!83@
+cnx|5|cnx!75@cnx!91@cnx!67@cnx!35@cnx!83@
+col|96|col_PatientID!19@col_rpkm_after_avr!99@col_isParalog!91@col_frame_orientation!99@col_numNormal!91@col_PatientID!99@col_gene5p_end!99@col_diagnosis!19@col_CbioportalFusion!19@col_frame_orientation!19@col_Tumor!99@col_numStudyFlex!83@col_gender!19@col_tumor!83@col_gene5p_end!19@col_isKinase!19@col_gene5p_start!99@col_FalsePositive!99@col_coor_break5p!99@col_tumorAge!83@col_exon_fusion!99@col_exon_jump_fold!99@col_3p_cnv!99@col_FalsePositive!19@col_cnv5p!83@col_gene5p_break!99@col_gene3p_end!99@col_gene3p!83@col_3p_cnv!19@col_numStudy!83@col_gene5p_start!19@col_rpkm_before_avr!99@col_Sample!19@col_gender!99@col_gene3p_start!19@col_coor_break3p!99@col_gene3p_break!99@col_Tool!19@col_gene5p!19@col_OS!99@col_gene5p!91@col_DriverMut!19@col_fusion_type!19@col_file!59@col_tumor!91@col_polyA!83@col_Sample!99@col_gene5p!83@col_numNormal!83@col_gene3p!91@col_tumorAge!91@col_gene3p_start!99@col_numStudyFlex!91@col_isKinase!99@col_avgRead!83@col_spanning_reads!99@col_gene3p!19@col_DriverMut!99@col_analysis_id!99@col_perc_kinase_exon!19@col_age!99@col_polyA!99@columns!75@col_cnv3p!83@col_exon_jump_fold!19@col_diagnosis!99@col_coor_break5p!19@col_rpkm_before_avr!19@col_gene3p!99@col_Tool!99@col_spanning_reads!19@col_avgRead!91@col_polyA!19@col_5p_cnv!99@col_Tumor!19@col_rpkm_after_avr!19@col_averga_age_tumor_type!99@col_polyA!91@col_isParalog!83@col_cnv5p!91@columns!67@col_age!19@col_averga_age_tumor_type!19@col_gene5p!99@col_perc_kinase_exon!99@col_CbioportalFusion!99@col_numStudy!91@col_gene3p_break!19@col_cnv3p!91@col_gene3p_end!19@col_analysis_id!19@col_coor_break3p!19@col_5p_cnv!19@col_gene5p_break!19@col_exon_fusion!19@col_fusion_type!99@
+com|5|compareallage!106@compareallOS!106@compareage!106@compareage!18@compareOS!106@
+con|1|constructNetwork!114@
+cur|5|cursor!35@cursor!67@cursor!91@cursor!83@cursor!75@
+dat|5|data!51@data_type!123@data!35@date!59@data!43@
+err|1|errorNotice!130@
+f|11|f!91@f!35@f!123@f!75@f!67@f!83@f!43@f!11@f!27@f!51@f!19@
+fil|9|file_result!19@fileConversion!138@filename!91@filename!75@file_out!11@filename!83@file_out!27@filename!35@filename!67@
+fin|1|finishNotice!130@
+fna|1|fnames!139@
+fus|2|fusion!43@fusion!51@
+g|1|g!19@
+gct|1|gct_file!59@
+gen|27|gene_type!123@gene3p!27@gene5p!67@gene3p!51@genes_1865!19@gene!59@gene3p!11@gene3p!43@gene5p!75@gene5p!43@gene5p!91@gene5p!83@gene3p!83@gene3p!19@gene3p!67@genes_1599!19@gene5p!27@gene_pair_dict!35@gene3p!75@gene_pair!35@gene5p!11@gene5p!51@gene_pair_key!35@genes!35@genes_1598!19@gene3p!91@gene5p!19@
+get|8|getTCGAAnnotation!146@getPseudogene!146@getPseudogene!122@gettestfile!130@getAssayGeneAnnot!146@getdocumentedfusion!18@getAssayGeneAnnot_v1!146@getallfusion!106@
+hea|3|header!51@header!43@header!19@
+his|2|hist_data_file!67@hist_data_file!83@
+i|1|i!35@
+id_|1|id_symbol_map!123@
+ifi|1|ifile_path!19@
+isp|1|isParalog!67@
+lin|21|line_split!43@line_out!83@lines!83@line!35@line_out!35@line_split!27@line_split!123@line_split!19@line_out!27@line_split!51@line_out!75@line_out!19@line_out!51@lines!19@line_out!43@lines!91@line_split!11@line_out!91@line_out!67@line_out!11@lines!35@
+lis|1|listand!154@
+mac|1|mac2linux!138@
+mes|1|message_flag!155@
+mor|1|morph!35@
+n_n|2|n_N!27@n_N!11@
+n_y|2|n_Y!27@n_Y!11@
+num|3|numStudy!43@numStudy!51@numNormal!43@
+ofi|2|ofile!43@ofile!51@
+out|5|outFile!91@outFile!35@outFile!67@outFile!83@outFile!75@
+par|4|partner!59@partners!83@partners!67@partners!91@
+pat|3|pattern!83@pattern!91@pattern!67@
+pid|6|pid!11@pid_this!11@pid_age!11@pid_this!27@pid_age!27@pid!27@
+pre|1|prepareColdata!154@
+pro|5|processSIF!114@probe_set!19@probe_id!123@probe_set_2!19@probe_id!19@
+pse|1|pseudogene_set!19@
+que|10|query_result!35@query!83@query_result!67@query!75@query!35@query!91@query_result!75@query_result!83@query_result!91@query!67@
+r_s|1|R_script!19@
+ran|1|randompartition!130@
+rea|2|readCancer!122@readRSEM!122@
+res|3|result!19@result_1!19@result!59@
+sam|6|samples!19@sample_1865!19@sample_fullname_list!19@sample_1599!19@sample_1598!19@sample_list!19@
+ski|2|skip!11@skip!27@
+sym|2|symbol!123@symbol!19@
+tit|1|title!19@
+top|1|top!35@
+wri|2|writeTCGAExpressionMatrix!122@writeExpressionMatrix!122@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
